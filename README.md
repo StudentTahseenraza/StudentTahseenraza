@@ -26,7 +26,7 @@
 
 ### 🧩 My Developer Universe
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StudentTahseenraza&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img [src="https://github-profile-trophy.vercel.app/?username=StudentTahseenraza&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7](https://githubuniverse.com/_next/static/media/_copilot.63fb5033.webp)" />
 </p>
 
 ---
